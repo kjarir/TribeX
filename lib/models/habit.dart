@@ -12,4 +12,5 @@ class Habit {
     required this.icon,
     required this.weekProgress,
   });
+  
 }
