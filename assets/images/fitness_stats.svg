@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <rect x="40" y="160" width="30" height="80" fill="#6C63FF" transform="rotate(180 40 160)"/>
+    <rect x="90" y="160" width="30" height="120" fill="#03DAC6" transform="rotate(180 90 160)"/>
+    <rect x="140" y="160" width="30" height="60" fill="#6C63FF" transform="rotate(180 140 160)"/>
+    <path d="M30,40 L170,40" stroke="#03DAC6" stroke-width="4" stroke-dasharray="8 4"/>
+</svg>
